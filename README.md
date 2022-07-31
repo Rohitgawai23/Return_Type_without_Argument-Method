@@ -1,0 +1,1 @@
+# Return_Type_without_Argument-Method
